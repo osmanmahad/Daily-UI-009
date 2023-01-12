@@ -44,8 +44,8 @@ body {
 }
 
 .music-image {
-  width: 230px;
-  height: 230px;
+  width: 300px;
+  height: 300px;
   box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.1);
   border-radius: 50%;
@@ -62,7 +62,7 @@ body {
 }
 
 .image-wrapper {
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 30px;
   display: flex;
   justify-content: center;
@@ -89,7 +89,7 @@ body {
   height: 6px;
   background-color: #ccc;
   border-radius: 15px;
-  margin-top: 100px;
+  margin-top: 60px;
   margin-bottom: 20px;
 }
 
